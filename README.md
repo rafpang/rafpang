@@ -5,7 +5,7 @@
 
 # 💫 Work Experience
 
-- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🗺️  
+- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  
   Jun 2024 – Present
 
 - Software Engineer (Core team), [Learnr (NTU-backed EdTech Startup)](https://www.learnr.sg/) 📚  
