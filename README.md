@@ -1,6 +1,8 @@
 # 💫 About Me
 🔭 I’m currently working on myself 😤
+
 🤝 I’m looking for help with finding a job 😭
+
 💬 Ask me about organic chemistry 🧪
 
 # 💫 Work Experience
