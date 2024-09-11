@@ -1,4 +1,7 @@
 # 💫 About Me
+Undergrad @NTU studying Chemical Engineering (big mistake)
+
+
 🔭 I’m currently working on myself 😤
 
 🤝 I’m looking for help with finding a job 😭
