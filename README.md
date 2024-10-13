@@ -1,5 +1,5 @@
 # 💫 About Me
-Undergrad @NTU studying Chemical Engineering (big mistake)
+Undergrad @NTU studying Chemical Engineering 
 
 
 🔭 I’m currently working on myself 😤
