@@ -10,11 +10,14 @@ Undergrad @NTU studying Chemical Engineering
 
 # 💫 Work Experience
 
-- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  
-  Jun 2024 – Present
+- Data Engineering Intern, [Rakuten Viki](https://www.viki.com/) 🎥
+  Jan 2025 – Present
 
 - Software Engineer (Core team), [Learnr (NTU-backed EdTech Startup)](https://www.learnr.sg/) 📚  
   Feb 2024 – Present
+  
+- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  
+  Jun 2024 – Nov 2024
 
 - Data Engineering Intern, [Abbott Manufacturing Singapore](https://www.abbott.com) 🍼  
   Jan 2024 – Jun 2024
