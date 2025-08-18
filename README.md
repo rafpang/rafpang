@@ -9,9 +9,11 @@ Undergrad @NTU studying Chemical Engineering
 💬 Ask me about organic chemistry 🧪
 
 # 💫 Work Experience
+- Software Engineer, [MRI Software](https://www.mrisoftware.com) 🏠
+  (Aug 2025 – Present)
 
 - Data Engineering Intern, [Rakuten Viki](https://www.viki.com/) 🎥
-  (Jan 2025 – Present)
+  (Jan 2025 – Jun 2025)
 
 - Software Engineer (Core team), [Learnr (NTU-backed EdTech Startup)](https://www.learnr.sg/) 📚  
   (Feb 2024 – Present)
