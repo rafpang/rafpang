@@ -9,22 +9,22 @@ Graduated from @NTU, studied Chemical Engineering
 💬 Ask me about organic chemistry 🧪
 
 # 💫 Work Experience
-- Software Engineer, [MRI Software](https://www.mrisoftware.com) 🏠
+- Software Engineer, [MRI Software](https://www.mrisoftware.com) 🏠 [C#, .NET]
   (Aug 2025 – Present)
 
-- Data Engineering Intern, [Rakuten Viki](https://www.viki.com/) 🎥
+- Data Engineering Intern, [Rakuten Viki](https://www.viki.com/) 🎥 [Python, AWS, Apache Airflow]
   (Jan 2025 – Jun 2025)
 
-- Software Engineer (Core team), [Learnr (NTU-backed EdTech Startup)](https://www.learnr.sg/) 📚  
+- Software Engineer (Core team), [Learnr (NTU-backed EdTech Startup)](https://www.learnr.sg/) 📚  [Go, GraphQL, Next.js]
   (Feb 2024 – Present)
   
-- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  
+- Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  [Python, Django, React.js]
   (Jun 2024 – Nov 2024)
 
-- Data Engineering Intern, [Abbott Manufacturing Singapore](https://www.abbott.com) 🍼  
+- Data Engineering Intern, [Abbott Manufacturing Singapore](https://www.abbott.com) 🍼  [Python, Azure, Databricks]
   (Jan 2024 – Jun 2024)
 
-- Data Science & Engineering Intern, [GetGo Carsharing](https://www.getgo.sg) 🚙  
+- Data Science & Engineering Intern, [GetGo Carsharing](https://www.getgo.sg) 🚙  [Python, Databricks]
   (May 2023 – Aug 2023)
 
 # 💻 Some Tech I Use/Used
