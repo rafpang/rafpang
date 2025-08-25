@@ -21,7 +21,7 @@ Graduated from @NTU, studied Chemical Engineering
 - Software Engineering Intern, [Earth Observatory Singapore (EOS)](https://earthobservatory.sg) 🌍  [Python, Django, React.js]
   (Jun 2024 – Nov 2024)
 
-- Data Engineering Intern, [Abbott Manufacturing Singapore](https://www.abbott.com) 🍼  [Python, Azure, Databricks]
+- Data Engineering Intern, [Abbott](https://www.abbott.com) 🍼  [Python, Azure, Databricks]
   (Jan 2024 – Jun 2024)
 
 - Data Science & Engineering Intern, [GetGo Carsharing](https://www.getgo.sg) 🚙  [Python, Databricks]
